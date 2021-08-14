@@ -1,2 +1,3 @@
 rootProject.name = "UnityDeepLink"
 include ':app'
+include ':unity_classes'
